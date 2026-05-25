@@ -213,3 +213,24 @@ I'm always open to discussing AI systems, cloud-native architecture, enterprise 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+⭐;Let's+build+something+great+together+🚀" alt="Footer Typing SVG" />
 
 </div>
+
+
+---
+
+<!-- SECTION I: CERTIFICATIONS -->
+
+## 🎓 Certifications
+
+<div align="center">
+
+| Certificate | Issuer | Issued | Credential ID |
+|---|---|---|---|
+| 🏅 **Microsoft Certified: Azure Data Engineer Associate** | Microsoft | Dec 2024 · Expires Dec 2025 | 39894DC542EF466C |
+| 🐧 **Linux Essentials Certification** | LinkedIn | Sep 2023 | 92c0386c...5870d |
+| 🎓 **Masters Program (Master)** | University of Cincinnati | Apr 2024 | CeDiD:24N1S7R8KII0 |
+| 🤖 **LLM - Large Language Models** | LinkedIn | Apr 2024 | b553356d...ce857 |
+| ☁️ **AWS Security, Compliance, Deployment, Provisioning & Automation** | LinkedIn | Dec 2023 | — |
+| 🔒 **AWS Academy Cloud Security Foundations** | AWS Academy | Nov 2023 | [Credly Badge](https://www.credly.com/go/n6ePNnF7) |
+| 🏭 **Run Azure Databricks Notebooks with Azure Data Factory** | Microsoft | Nov 2023 | — |
+
+</div>
